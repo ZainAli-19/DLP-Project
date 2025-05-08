@@ -65,14 +65,6 @@ All models predict hourly solar output using the past 24 hours of weather and sy
 
 ---
 
-## 📈 Future Improvements  
-- Handle low-output periods to stabilize MAPE  
-- Incorporate external factors (holidays, sunlight hours)  
-- Tune Transformer further with positional embeddings  
-- Try hybrid CNN-RNN architectures
-
----
-
 ## ✍️ Author  
 **Name:** Zain Ali Siddiqui  
 **Roll No:** 21K-4870  
